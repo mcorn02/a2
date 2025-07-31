@@ -1,3 +1,5 @@
+PLEASE RUN ON: cssc1415
+
 Team Names: Michael Corn and Simmon Quan
 
 Edoras Usernames: cssc1415 and cssc1450
