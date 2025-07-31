@@ -1,3 +1,14 @@
+/*
+Team Names: Michael Corn and Simmon Quan
+
+Edoras Usernames: cssc1415 and cssc1450
+
+Assignment #2: Experimental Shell "XHS"
+
+File Name: XSH.h
+*/
+
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -18,8 +29,7 @@ vector<int> create_pipes(int n);
 
 string trim(string& s);
 
-void exit();
+void run_shell();
 
-//function to create process and run command
-//
-//function for pipe (IPC)
+void run_pipelines(vector<string>& commands);
+

@@ -4,7 +4,7 @@
 
 #Class Info: CS 480 Operating Systems, Summer Session 2 2025
 
-#Assignment #1: Concurrent Thread Chatbot
+#Assignment #2: Experimental Shell "XSH"
 
 #File Name: Makefile
 	
